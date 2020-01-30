@@ -5,6 +5,6 @@ sqr_num = array[counter] ** 2
 new_array = []
 new_array.push(sqr_num)
 counter +=1
-puts new_array
 end
+new_array
 end
